@@ -1,3 +1,9 @@
+<?php
+require "bdd.php";
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,11 +13,9 @@
 </head>
 <body id="body">
     
-<p>Ici on met les frères en TN lacoste</p>
-
-
+<p>Ici on met les frères en TN Lacoste</p>
 
     <script type="text/javascript" src="data.json"></script>
-    <script type="text/javascript" src="script.js"></script>
+    <script type="text/javascript" src="./js/script.js"></script>
 </body>
 </html>
